@@ -1,0 +1,62 @@
+
+
+
+h1 {
+	font-size: 47px;
+}
+
+h2 {
+	font-size: 42px;
+}
+p {
+	font-size: 26px;
+}
+span {
+	font-size: 31px;
+}}
+ul{
+    list-style: none;
+}
+ul li {
+	font-size: 29px;
+    list-style: none;
+}
+.semantic-q{}
+.semantic-a {
+	font-size: 30px;
+}
+.semantic-li {
+	font-size: 31px;
+}
+.ul2{}
+
+.bool{ 
+    font-size: 45px;
+}
+.bool-a{
+    font-size: 35px;
+}
+audio{
+    width: 500px;
+}
+video{
+    height: 300px;
+    width: 450px;
+}
+img {
+	width: 600px;
+	height: auto;
+}
+
+strong{
+    font-size: 50px;
+}
+
+.iframe-video{
+	 width: 50%;
+	 height: 400px;
+}
+.map {
+	width: 100%;
+	height: 400px;
+}
